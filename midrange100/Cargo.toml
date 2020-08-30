@@ -1,0 +1,128 @@
+[package]
+name = "midrange100"
+version = "0.1.0"
+authors = ["root <root@silviaseDESTKTOP.localdomain>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+proconio = { version = "0.4.1", features = ["derive"] }
+itertools = "0.9.0"
+itertools-num = "0.1.3"
+
+[[bin]]
+name = "mid1"
+path = "src/bin/1.rs"
+
+[[bin]]
+name = "mid2"
+path = "src/bin/2.rs"
+
+[[bin]]
+name = "mid3"
+path = "src/bin/3.rs"
+
+[[bin]]
+name = "mid4"
+path = "src/bin/4.rs"
+
+[[bin]]
+name = "mid5"
+path = "src/bin/5.rs"
+
+[[bin]]
+name = "mid6"
+path = "src/bin/6.rs"
+
+[[bin]]
+name = "mid7"
+path = "src/bin/7.rs"
+
+[[bin]]
+name = "mid8"
+path = "src/bin/8.rs"
+
+[[bin]]
+name = "mid9"
+path = "src/bin/9.rs"
+
+[[bin]]
+name = "mid10"
+path = "src/bin/10.rs"
+
+[[bin]]
+name = "mid11"
+path = "src/bin/11.rs"
+
+[[bin]]
+name = "mid12"
+path = "src/bin/12.rs"
+
+[[bin]]
+name = "mid13"
+path = "src/bin/13.rs"
+
+[[bin]]
+name = "mid14"
+path = "src/bin/14.rs"
+
+[[bin]]
+name = "mid15"
+path = "src/bin/15.rs"
+
+[[bin]]
+name = "mid16"
+path = "src/bin/16.rs"
+
+[[bin]]
+name = "mid17"
+path = "src/bin/17.rs"
+
+[[bin]]
+name = "mid18"
+path = "src/bin/18.rs"
+
+[[bin]]
+name = "mid19"
+path = "src/bin/19.rs"
+
+[[bin]]
+name = "mid20"
+path = "src/bin/20.rs"
+
+[[bin]]
+name = "mid21"
+path = "src/bin/21.rs"
+
+[[bin]]
+name = "mid22"
+path = "src/bin/22.rs"
+
+[[bin]]
+name = "mid23"
+path = "src/bin/23.rs"
+
+[[bin]]
+name = "mid24"
+path = "src/bin/24.rs"
+
+[[bin]]
+name = "mid25"
+path = "src/bin/25.rs"
+
+[[bin]]
+name = "mid26"
+path = "src/bin/26.rs"
+
+[[bin]]
+name = "mid27"
+path = "src/bin/27.rs"
+
+[[bin]]
+name = "mid28"
+path = "src/bin/28.rs"
+
+[[bin]]
+name = "mid29"
+path = "src/bin/29.rs"
