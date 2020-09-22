@@ -1,1 +1,4 @@
-!*.rs
+ac-library-rs/
+*.toml
+*.lock
+target/

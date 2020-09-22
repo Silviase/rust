@@ -126,3 +126,43 @@ path = "src/bin/28.rs"
 [[bin]]
 name = "mid29"
 path = "src/bin/29.rs"
+
+[[bin]]
+name = "mid30"
+path = "src/bin/30.rs"
+
+[[bin]]
+name = "mid31"
+path = "src/bin/31.rs"
+
+[[bin]]
+name = "mid32"
+path = "src/bin/32.rs"
+
+[[bin]]
+name = "mid33"
+path = "src/bin/33.rs"
+
+[[bin]]
+name = "mid34"
+path = "src/bin/34.rs"
+
+[[bin]]
+name = "mid35"
+path = "src/bin/35.rs"
+
+[[bin]]
+name = "mid36"
+path = "src/bin/36.rs"
+
+[[bin]]
+name = "mid37"
+path = "src/bin/37.rs"
+
+[[bin]]
+name = "mid38"
+path = "src/bin/38.rs"
+
+[[bin]]
+name = "mid39"
+path = "src/bin/39.rs"

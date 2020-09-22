@@ -1,7 +1,5 @@
 use itertools::Itertools;
-use itertools_num::ItertoolsNum;
 use proconio::input;
-use std;
 
 fn fac(x: usize) -> usize {
     match x {
