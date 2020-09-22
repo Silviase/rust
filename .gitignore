@@ -1,4 +1,4 @@
 ac-library-rs/
 *.toml
 *.lock
-target/
+!*.rs
