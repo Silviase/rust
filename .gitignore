@@ -1,5 +1,6 @@
 ac-library-rs/
 *.toml
+.idea
 *.lock
 !*.rs
 target/
